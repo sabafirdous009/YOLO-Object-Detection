@@ -1,0 +1,9 @@
+numpy
+flask
+ipykernel
+opencv-python
+ultralytics
+supervision
+mysql-connector-python
+datetime
+
